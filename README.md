@@ -20,7 +20,7 @@ Proyek ini merupakan hasil bimbingan intensif yang mencakup:
 
 ## 🔗 Demo Langsung
 Hasil akhir dari proyek bimbingan ini dapat diakses melalui:
-[Klik di sini untuk melihat Demo Project]([https://kornelsimanjuntak4.github.io/cat-photo-app/])
+[Klik di sini untuk melihat Demo Project](https://kornelsimanjuntak4.github.io/cat-photo-app/)
 
 ---
 *Project ini dikembangkan sebagai bagian dari perjalanan belajar saya menuju sertifikasi Desain Web Responsif.*
