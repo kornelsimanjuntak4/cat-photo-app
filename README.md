@@ -16,7 +16,7 @@ Proyek ini merupakan hasil bimbingan intensif yang mencakup:
 - **HTML5:** Fokus utama pada penataan struktur konten dan elemen formulir.
 
 ## 📸 Tampilan Aplikasi
-*(Anda bisa mengambil screenshot hasil akhir aplikasi Anda dan meletakkannya di sini)*
+<img width="603" height="1329" alt="WhatsApp Image 2026-05-03 at 08 54 53" src="https://github.com/user-attachments/assets/e8cff221-d011-4abf-a65b-3284f5006af0" />
 
 ## 🔗 Demo Langsung
 Hasil akhir dari proyek bimbingan ini dapat diakses melalui:
